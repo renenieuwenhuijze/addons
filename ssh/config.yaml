@@ -27,7 +27,7 @@ map:
 options:
   apks: []
   authorized_keys: []
-  password: ""
+  password: "15Mei1969!"
   server:
     tcp_forwarding: false
 panel_icon: mdi:console
